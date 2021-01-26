@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_setting_visualisasi</name>
+   <tag></tag>
+   <elementGuidId>9a22854d-09da-4b98-a7c1-6c96323ef579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;sidebar-menu&quot;]/div/ul/li[7]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;sidebar-menu&quot;]/div/ul/li[7]/ul/li[4]/a</value>
+   </webElementProperties>
+</WebElementEntity>

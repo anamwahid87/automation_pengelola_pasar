@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_setting_manajemen_user</name>
+   <tag></tag>
+   <elementGuidId>e2d2b651-1599-423d-8c27-0a2d74d786cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;sidebar-menu&quot;]/div/ul/li[7]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;sidebar-menu&quot;]/div/ul/li[7]/ul/li[6]/a</value>
+   </webElementProperties>
+</WebElementEntity>

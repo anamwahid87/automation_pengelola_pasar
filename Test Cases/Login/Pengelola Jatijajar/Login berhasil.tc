@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4a6075e-619d-40cd-8697-1283bbb6c13e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://pengelola-pasar.tcd-dev.id/'</defaultValue>
+      <description></description>
+      <id>2131f072-1199-4d20-b870-e45c251b7c57</id>
+      <masked>false</masked>
+      <name>url_dev</name>
+   </variable>
+   <variable>
+      <defaultValue>'admpengelolajatijajar'</defaultValue>
+      <description></description>
+      <id>2290556c-4b08-4804-a16a-68f4bdd1b5e2</id>
+      <masked>false</masked>
+      <name>username_pengelola_jatijajar</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@ssword123'</defaultValue>
+      <description></description>
+      <id>1ed5ec52-c1c1-4f0d-847a-3ad9a34bac79</id>
+      <masked>false</masked>
+      <name>password_pengelola_jatijajar</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>408e2672-2788-459f-b378-0f5f31b8dc36</id>
+      <masked>false</masked>
+      <name>password_salah</name>
+   </variable>
+</TestCaseEntity>
